@@ -1,0 +1,6 @@
+{
+  "name": "LUCKY WHEELS",
+  "description": "Ứng dụng gọi tên học sinh ngẫu nhiên phong cách Đua Vịt vui nhộn cho lớp học - GVCN: Chử Thị Ngọc Lan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
